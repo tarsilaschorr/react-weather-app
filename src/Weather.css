@@ -1,0 +1,53 @@
+div .Weather {
+  border: 1px solid #878787;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+h1 {
+  margin-top: 20px;
+  padding: 10px;
+  font-weight: 300px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 0;
+  text-align: center;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+form {
+  margin-top: 30px;
+}
+div.temp-description {
+  margin-top: 30px;
+}
+span.current-temperature {
+  font-size: 40px;
+  line-height: 64px;
+}
+span.unit {
+  font-size: 15px;
+  position: relative;
+  top: -15px;
+}
+.Weather img {
+  height: 64px;
+  display: inline-block;
+  position: relative;
+  top: -5px;
+}
+li.date {
+  color: #878787;
+  font-weight: lighter;
+  text-align: center;
+  margin: 0 auto;
+}
+div.description {
+  text-align: left;
+  font-size: 12px;
+}
+
+.form-control {
+  margin-left: 20px;
+}
