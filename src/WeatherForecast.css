@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+.Forecast-day {
+  opacity: 0.8;
+}
+.Forecast-temp-max,
+.Forecast-temp-min {
+  font-size: 12px;
+  margin: 0;
+}
+.Forecast-icon {
+  margin: -5px;
+}
+.Forecast-temp {
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
