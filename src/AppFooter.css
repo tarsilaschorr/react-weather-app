@@ -4,7 +4,9 @@ span {
 }
 .link {
   text-decoration: none;
+  color: #b091fd;
 }
 .link:hover {
   text-decoration: underline;
+  color: #b091fd;
 }

@@ -3,6 +3,7 @@ div .Weather {
   margin-top: 30px;
   border-radius: 5px;
 }
+
 h1 {
   margin-top: 20px;
   padding: 10px;
@@ -13,7 +14,7 @@ h1 {
 }
 ul {
   list-style: none;
-  padding: 0;
+  padding: 0px 0px 0px 0px;
 }
 
 form {
@@ -21,6 +22,10 @@ form {
 }
 div.temp-description {
   margin-top: 30px;
+}
+.main-description {
+  color: #b091fd;
+  font-weight: 200;
 }
 span.current-temperature {
   font-size: 40px;
@@ -47,7 +52,38 @@ div.description {
   text-align: left;
   font-size: 12px;
 }
-
+div.main-section {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+div.temp-description {
+  margin-top: 40px;
+}
+div.clearfix {
+  text-align: center;
+}
+div.info-description {
+  text-align: center;
+  font-size: 12px;
+}
 .form-control {
   margin-left: 20px;
+}
+
+.btn-primary {
+  color: #cab6fd;
+  background-color: #cab6fd !important;
+  border: #cab6fd !important;
+}
+div.forecast {
+  max-width: 80%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+img.icon {
+  height: 54px;
+}
+img.main-icon {
+  height: 90px;
+  margin-left: -30px;
 }

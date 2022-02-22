@@ -12,23 +12,23 @@ export default function AppFooter() {
       >
         Tarsila Schorr
       </a>{" "}
-      and is{" "}
+      and is open-sourced on{" "}
       <a
         href="https://github.com/tarsilaschorr/react-weather-app"
         target="_blank"
         rel="noreferrer"
         className="link"
       >
-        open-sourced on GitHub
+        GitHub
       </a>{" "}
-      and{" "}
+      and hosted on{" "}
       <a
         href="https://amazing-williams-3cff0d.netlify.app/"
         target="_blank"
         rel="noreferrer"
         className="link"
       >
-        hosted on Netlify
+        Netlify
       </a>
     </span>
   );

@@ -4,6 +4,12 @@ body {
 .Forecast-day {
   opacity: 0.8;
 }
+.Forecast-temp-max {
+  font-weight: 600;
+}
+.Forecast-temp-min {
+  font-weight: 300;
+}
 .Forecast-temp-max,
 .Forecast-temp-min {
   font-size: 12px;
